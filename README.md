@@ -6,14 +6,22 @@ This project is a Spring Boot 3.4.4 application that integrates Apache Kafka and
 
 # Technologies Used 🛠
 Java 17
+
 Spring Boot 3.4.4
+
 Spring Data MongoDB
+
 Spring Kafka
+
 Apache Kafka
+
 MongoDB
 
 # Prerequisites 📌
 Java 17+
+
 Apache Kafka installed and running
+
 MongoDB running
+
 Maven 3+
