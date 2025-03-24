@@ -1,5 +1,5 @@
 
-# Spring Boot 3.4.4 - Kafka & CRUD with MongoDB
+# 🚀 Spring Boot 3.4.4 - Kafka & CRUD with MongoDB 🚀
 
 # Description
 This project is a Spring Boot 3.4.4 application that integrates Apache Kafka and MongoDB. The application allows entity management through CRUD operations while integrating Kafka for asynchronous communication.
